@@ -154,7 +154,7 @@ void APP_Tasks ( void )
 
         case APP_STATE_SERVICE_TASKS:
         {
-          //test
+          //test 2
             break;
         }
 
